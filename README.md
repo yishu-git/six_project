@@ -1,2 +1,0 @@
-# six_project
-ddddd
